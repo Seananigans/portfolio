@@ -2,6 +2,8 @@ body {
 	background-color: #d9edf7;
 }
 
-@media screen and (max-width: 800px) {
-	body { background-color: green; }
+@media screen and (max-width: 500px) {
+	body { 
+		background-color: green; 
+	}
 }
